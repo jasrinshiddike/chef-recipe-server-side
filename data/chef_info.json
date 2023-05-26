@@ -1,0 +1,214 @@
+[
+      {
+        "id": "1",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2FKok_aan_huis_Broos_C5XtXxL.jpg&w=1920&q=75",
+        "name": "Merlin & Sebastiaan",
+        "experience_years": 20,
+        "likes": 5000,
+        "description": "Chef Merlin & Sebastiaan are an Italian culinary master with over 20 years of experience in creating authentic Italian dishes. They are known for their passion for fresh ingredients and traditional recipes, and their commitment to creating dishes that are both delicious and healthy.",
+        "number_of_recipes": 200,
+        "recipes": [
+          {
+            "recipe_id": "1",
+            "recipe_name": "Pasta Carbonara",
+            "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1200px-Espaguetis_carbonara.jpg",
+            "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "black pepper"],
+            "cooking_method": "Boil the spaghetti until al dente. Fry the bacon until crispy. Whisk the eggs with parmesan cheese and black pepper. Toss the spaghetti with the bacon and egg mixture. Serve immediately.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": "2",
+            "recipe_img": "https://happykitchen.rocks/wp-content/uploads/2021/06/Margherita-flatbread-pizza-drizzled-with-balsamic-reduction.jpg",
+            "recipe_name": "Margherita Pizza",
+            "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil leaves", "olive oil"],
+            "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough and spread tomato sauce on top. Add mozzarella cheese and basil leaves. Drizzle with olive oil. Bake for 10-12 minutes or until the crust is golden brown.",
+            "rating": 5.2
+          },
+          {
+            "recipe_id": "3",
+            "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFW4Yo8s6_w8QgSryE1mAUcS2eYMOv4mzstQ&usqp=CAU",
+            "recipe_name": "Chicken Parmesan",
+            "ingredients": ["chicken breasts", "bread crumbs", "egg", "mozzarella cheese", "marinara sauce"],
+            "cooking_method": "Preheat the oven to 375°F. Pound the chicken breasts until thin. Dip in beaten egg and coat with bread crumbs. Fry in olive oil until golden brown. Top with marinara sauce and mozzarella cheese. Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2FWhatsApp_Image_2021-09-17_at_08.49.32.jpeg&w=1920&q=75",
+        "name": "Giovanni Nava",
+        "experience_years": 15,
+        "likes": 8000,
+        "description": "Chef Maria Bianchi is a rising star in the Italian culinary scene. With over 15 years of experience, she has a deep understanding of the flavors and ingredients that make Italian cuisine so special. Her dishes are known for their creativity and bold flavors.",
+        "number_of_recipes": 300,
+        "recipes": [
+          {
+            "recipe_id": "1",
+            "recipe_img": "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
+            "recipe_name": "Tiramisu",
+            "ingredients": ["ladyfingers", "mascarpone cheese", "egg yolks", "sugar", "espresso"],
+            "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+            "rating": 4.7
+          },
+          {
+            "recipe_id": "2",
+            "recipe_img": "https://www.allrecipes.com/thmb/kJN_-TjM7aHcrVe04AaC-omMFRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3985127-472391cb917c4a9395f6745ee754dabc.jpg",
+            "recipe_name": "Risotto alla Milanese",
+            "ingredients": ["arborio rice", "saffron threads", "chicken broth", "onion", "parmesan cheese"],
+            "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "3",
+            "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFW4Yo8s6_w8QgSryE1mAUcS2eYMOv4mzstQ&usqp=CAU",
+            "recipe_name": "Chicken Parmesan",
+            "ingredients": ["chicken breasts", "bread crumbs", "egg", "mozzarella cheese", "marinara sauce"],
+            "cooking_method": "Preheat the oven to 375°F. Pound the chicken breasts until thin. Dip in beaten egg and coat with bread crumbs. Fry in olive oil until golden brown. Top with marinara sauce and mozzarella cheese. Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2FPrivate_Chef_Mauro.jpg&w=1920&q=75",
+        "name": "Mauro Buonanno",
+        "experience_years": 13,
+        "likes": 5000,
+        "description": "Mauro Buonanno private chef and owner of a restaurant in Naples, Oltre restaurant. The culinary concept is traditionally contemporary, born after many experiences in my land and abroad.",
+        "number_of_recipes": 400,
+        "recipes": [
+          {
+            "recipe_id": "1",
+            "recipe_img": "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
+            "recipe_name": "Tiramisu",
+            "ingredients": ["ladyfingers", "mascarpone cheese", "egg yolks", "sugar", "espresso"],
+            "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+            "rating": 4.7
+          },
+          {
+            "recipe_id": "2",
+            "recipe_img": "https://happykitchen.rocks/wp-content/uploads/2021/06/Margherita-flatbread-pizza-drizzled-with-balsamic-reduction.jpg",
+            "recipe_name": "Margherita Pizza",
+            "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil leaves", "olive oil"],
+            "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough and spread tomato sauce on top. Add mozzarella cheese and basil leaves. Drizzle with olive oil. Bake for 10-12 minutes or until the crust is golden brown.",
+            "rating": 4.2
+          },
+          {
+            "recipe_id": "3",
+            "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFW4Yo8s6_w8QgSryE1mAUcS2eYMOv4mzstQ&usqp=CAU",
+            "recipe_name": "Chicken Parmesan",
+            "ingredients": ["chicken breasts", "bread crumbs", "egg", "mozzarella cheese", "marinara sauce"],
+            "cooking_method": "Preheat the oven to 375°F. Pound the chicken breasts until thin. Dip in beaten egg and coat with bread crumbs. Fry in olive oil until golden brown. Top with marinara sauce and mozzarella cheese. Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2F2.jpeg&w=1920&q=75",
+        "name": "Terenzio Ignoni",
+        "experience_years": 18,
+        "likes": 9000,
+        "description": "Experience a playful approach to food, with menus that surprise and delight. I take the best of Italian cuisines, from North to Suth to create dishes which are extremely tastefull.",
+        "number_of_recipes": 500,
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "recipe_img": "https://www.allrecipes.com/thmb/kJN_-TjM7aHcrVe04AaC-omMFRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3985127-472391cb917c4a9395f6745ee754dabc.jpg",
+                "recipe_name": "Risotto alla Milanese",
+                "ingredients": ["arborio rice", "saffron threads", "chicken broth", "onion", "parmesan cheese"],
+                "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "2",
+                "recipe_img": "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
+                "recipe_name": "Tiramisu",
+                "ingredients": ["ladyfingers", "mascarpone cheese", "egg yolks", "sugar", "espresso"],
+                "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+                "rating": 5.7
+            },
+            {
+                "recipe_id": "3",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFW4Yo8s6_w8QgSryE1mAUcS2eYMOv4mzstQ&usqp=CAU",
+                "recipe_name": "Chicken Parmesan",
+                "ingredients": ["chicken breasts", "bread crumbs", "egg", "mozzarella cheese", "marinara sauce"],
+                "cooking_method": "Preheat the oven to 375°F. Pound the chicken breasts until thin. Dip in beaten egg and coat with bread crumbs. Fry in olive oil until golden brown. Top with marinara sauce and mozzarella cheese. Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+                "rating": 4.7
+            }
+        ]
+      },
+      {
+        "id": "5",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2FKok_aan_huis_Lexton.jpg&w=1920&q=75",
+        "name": "Lexton D’cunha",
+        "experience_years": 17,
+        "likes": 4000,
+        "description": "I grew up and spent 18 years in different parts of the Middle East and India or as I like to call it, The Great Asian/African Melting Pot of cultures and cuisines. I spent a significant part of my childhood, living in hotels and eating room service food as my father worked with food and beverage for The Marriott Hotels.",
+        "number_of_recipes": 350,
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1200px-Espaguetis_carbonara.jpg",
+                "recipe_name": "Pasta Carbonara",
+                "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "black pepper"],
+                "cooking_method": "Boil the spaghetti until al dente. Fry the bacon until crispy. Whisk the eggs with parmesan cheese and black pepper. Toss the spaghetti with the bacon and egg mixture. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "2",
+                "recipe_img": "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
+                "recipe_name": "Tiramisu",
+                "ingredients": ["ladyfingers", "mascarpone cheese", "egg yolks", "sugar", "espresso"],
+                "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "3",
+                "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFW4Yo8s6_w8QgSryE1mAUcS2eYMOv4mzstQ&usqp=CAU",
+                "recipe_name": "Chicken Parmesan",
+                "ingredients": ["chicken breasts", "bread crumbs", "egg", "mozzarella cheese", "marinara sauce"],
+                "cooking_method": "Preheat the oven to 375°F. Pound the chicken breasts until thin. Dip in beaten egg and coat with bread crumbs. Fry in olive oil until golden brown. Top with marinara sauce and mozzarella cheese. Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+                "rating": 4.6
+            }
+        ]
+      },
+      {
+        "id": "6",
+        "picture": "https://chefmaison.com/_next/image/?url=https%3A%2F%2Fd3l9f26xbu27n5.cloudfront.net%2Fmedia%2FCharlotteFotografie8_1_7tnF7da.jpg&w=1920&q=75",
+        "name": "Peter Bertrams",
+        "experience_years": 20,
+        "likes": 15000,
+        "description": "Chef Peter Bertrams knows how to turn both large events and small gatherings into a unique experience. With a personal and hospitable approach, they go for a total experience with every event or dinner that is taken care of down to the last detail. Inspired by the season, Chef Peter creates dishes that excite both visually and in terms of taste. International cuisine with pure, quality and colorful ingredients. Chef Peter finds it important that the menu forms a whole and is balanced. At the table our chef talks with passion about the ingredients and preparation methods.",
+        "number_of_recipes": 450,
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1200px-Espaguetis_carbonara.jpg",
+                "recipe_name": "Pasta Carbonara",
+                "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "black pepper"],
+                "cooking_method": "Boil the spaghetti until al dente. Fry the bacon until crispy. Whisk the eggs with parmesan cheese and black pepper. Toss the spaghetti with the bacon and egg mixture. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "2",
+                "recipe_img": "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
+                "recipe_name": "Tiramisu",
+                "ingredients": ["ladyfingers", "mascarpone cheese", "egg yolks", "sugar", "espresso"],
+                "cooking_method": "Whisk egg yolks and sugar until light and fluffy. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer them in a dish. Add a layer of the mascarpone mixture. Repeat. Chill for at least 2 hours before serving.",
+                "rating": 5.1
+            },
+            {
+                "recipe_id": "3",
+                "recipe_img": "https://happykitchen.rocks/wp-content/uploads/2021/06/Margherita-flatbread-pizza-drizzled-with-balsamic-reduction.jpg",
+                "recipe_name": "Margherita Pizza",
+                "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil leaves", "olive oil"],
+                "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough and spread tomato sauce on top. Add mozzarella cheese and basil leaves. Drizzle with olive oil. Bake for 10-12 minutes or until the crust is golden brown.",
+                "rating": 4.2
+            }
+        ]
+      }
+]
+
+  
